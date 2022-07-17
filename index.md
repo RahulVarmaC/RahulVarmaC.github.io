@@ -25,9 +25,12 @@ Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineeri
 - **[Jan. 2021]** I start my Masters education at Virginia Tech
 
 
-## Teaching
+## Projects
 
-- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Saarland University](https://www.uni-saarland.de/), SS2021 and SS2022
+# Project 1: Image Classification and Captioning- Advisor: Dr. Jason Xuan
+- Created a classifier to clasify 10 different types of objects using various architectures like VGG-16, RESNET and Y-CNN with a 92 % accuracy.
+- Created an image captioning tool to caption given images using the CNN-RNN architecture to summarize the entire image using words with a 70% Bleu Score.
+
 
 ## Services
 
