@@ -16,7 +16,7 @@ Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineeri
 ## News
 
 - **[July. 2022]** I attended the Neurosymbotic programming summer school hosted at Caltech from 11 to 13 July.
-- **[June. 2022]** I startes working with Dr. Nishith Tripathi on a new project on Non Terrestrial networks.
+- **[June. 2022]** I started working with Dr. Nishith Tripathi on a new project on Non Terrestrial networks.
 - **[May. 2022]** I submitted my first IEEE paper at the 40th annual Globecom conference.
 - **[May. 2022]** I am now a kaggle contributer !!
 - **[November. 2021]** I started ccontributing to Dr. Nishith Tripathi's  book on Applications of AI in Wireless Networks. 
@@ -27,9 +27,23 @@ Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineeri
 
 ## Projects
 
-# Project 1: Image Classification and Captioning- Advisor: Dr. Jason Xuan
+### Project 1: [Image Classification and Captioning- Advisor: Dr. Jason Xuan](https://github.com/RahulVarmaC/DeepLearning/tree/main/ConvNets)
 - Created a classifier to clasify 10 different types of objects using various architectures like VGG-16, RESNET and Y-CNN with a 92 % accuracy.
 - Created an image captioning tool to caption given images using the CNN-RNN architecture to summarize the entire image using words with a 70% Bleu Score.
+
+### Project 2: [News Article Summarization - Advisor: Dr. Jason Xuan](https://github.com/RahulVarmaC/News-Summarization-Using-Transformers)
+- Used the T5-Small and the Pegasus transformer models to fine tune X-Sum Dataset containing news articles for text summarization.
+- Summarized news articles using the fine tuned models into a 128-word summary and concluded that Pegasustransformer summarized articles better based on rogue scores.
+
+### Project 3: [Disease Outbreak Prediction- Advisor Dr. Jia Bin Huang](https://github.com/RahulVarmaC/Anomaly-Detection-using-unsupervised-learning)
+- Created an anomaly detector using isolation forest and dB Scan unsupervised machine learning models to detect anomalies in Covid-19 throughout the pandemic released by the Italy health Department.
+- Theorized and proved that there is a high chance of outbreaks shortly after the occurrences of these anomaliesusing unsupervised deep learning algorithms and deduced that there is a 7 day gap between an anomaly and an outbreak.
+
+### Project 4: [Heart Stroke Classification - Advisor: Dr.Creed Jones](https://github.com/RahulVarmaC/MachineLearning/tree/main/Heart-Stroke-prediction)
+- Performed Exploratory data analysis, imputed missing values using statistical methods and linear regression, performed feature engineering which increased the model performance by 15% when compared to the baseline model.
+- Conducted a comparative study of supervised machine learning algorithms with random forest algorithm giving the best accuracy of 95%.
+
+### Project 5:
 
 
 ## Services
