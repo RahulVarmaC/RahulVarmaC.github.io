@@ -13,7 +13,7 @@ Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineeri
 - **Natural Language Processing:** News Summarization, Sentiment Analysis, Text classification.
 
 
-## News
+## News Updates
 
 - **[July. 2022]** I attended the Neurosymbotic programming summer school hosted at Caltech from 11 to 13 July.
 - **[June. 2022]** I started working with Dr. Nishith Tripathi on a new project on Non Terrestrial networks.
@@ -43,7 +43,9 @@ Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineeri
 - Performed Exploratory data analysis, imputed missing values using statistical methods and linear regression, performed feature engineering which increased the model performance by 15% when compared to the baseline model.
 - Conducted a comparative study of supervised machine learning algorithms with random forest algorithm giving the best accuracy of 95%.
 
-### Project 5:
+### Project 5: [Digit Recognizer- Kaggle Competition](https://www.kaggle.com/code/rahulvarmac/basic-mlp-digit-recognizer)
+- Prepared the data, performed EDA, split the data into training and validation sets, constructed a deep neural network architecture to classify the digits.
+- Achieved a 97 % accuracy on test data in the leaderboard.
 
 
 ## Services
