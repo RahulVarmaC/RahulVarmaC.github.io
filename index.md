@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineering (Machine Intelligence) at Virginia Tech. I work on projects in the fields of **machine learning, deep learning, computer vision and atural language processing.** I currently work as a graduate research assistant at **wireless @ VT** under the mentorship of **Dr. Jeffrey Reed, Dr. Nishith Tripathi and Dr. Vijay Shah** .My current work is focused using vehicular communications and artificial intelligence to improve the efficiency and security of traffic intersections. Recently, I started working in the feild of Non Terrestrial networks.
+Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineering (Machine Intelligence) at Virginia Tech. I work on projects in the fields of **machine learning, deep learning, computer vision and atural language processing.** I currently work as a graduate research assistant at **wireless @ VT** under the mentorship of **Dr. Jeffrey Reed, Dr. Nishith Tripathi and Dr. Vijay Shah** .My current research work is focused using vehicular communications and artificial intelligence to improve the efficiency and security of traffic intersections. Recently, I started working in the feild of Non Terrestrial networks.
 Apart from work , I like hiking and photography. I am also an avid anime fan with One Piece and Demon Slayer being my current favorites. I was a part of the toastmasters International club where i served as a Vice president membership for the past year. During my undergraduate studies, i served as the sargent at arms for the club.
 
 ## Research Interests
@@ -31,10 +31,12 @@ Apart from work , I like hiking and photography. I am also an avid anime fan wit
 ### Project 1: [Image Classification and Captioning- Advisor: Dr. Jason Xuan](https://github.com/RahulVarmaC/DeepLearning/tree/main/ConvNets)
 - Created a classifier to clasify 10 different types of objects using various architectures like VGG-16, RESNET and Y-CNN with a 92 % accuracy.
 - Created an image captioning tool to caption given images using the CNN-RNN architecture to summarize the entire image using words with a 70% Bleu Score.
+- Built a Client faced API for object classification using the Flask library.
 
 ### Project 2: [News Article Summarization - Advisor: Dr. Jason Xuan](https://github.com/RahulVarmaC/News-Summarization-Using-Transformers)
 - Used the T5-Small and the Pegasus transformer models to fine tune X-Sum Dataset containing news articles for text summarization.
 - Summarized news articles using the fine tuned models into a 128-word summary and concluded that Pegasustransformer summarized articles better based on rogue scores.
+- Additionally, conducted a human evaluation of the summaries of a few news articles and concluded that pegasus transformer model produced better summaries.
 
 ### Project 3: [Disease Outbreak Prediction- Advisor Dr. Jia Bin Huang](https://github.com/RahulVarmaC/Anomaly-Detection-using-unsupervised-learning)
 - Created an anomaly detector using isolation forest and dB Scan unsupervised machine learning models to detect anomalies in Covid-19 throughout the pandemic released by the Italy health Department.
