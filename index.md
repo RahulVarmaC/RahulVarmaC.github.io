@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineering (Machine Intelligence) at Virginia Tech. I work on projects in the fields of **machine learning, deep learning, computer vision and atural language processing.** I currently work as a graduate research assistant at **wireless @ VT** under the mentorship of **Dr. Jeffrey Reed, Dr. Nishith Tripathi and Dr. Vijay Shah** .My current research work is focused using vehicular communications and artificial intelligence to improve the efficiency and security of traffic intersections. Recently, I started working in the feild of Non Terrestrial networks.
+Hello! My name is Rahul and i'm a Masters Student majoring in Computer Engineering (Machine Intelligence) at Virginia Tech. I work on projects in the fields of **machine learning, deep learning, computer vision and natural language processing.** I currently work as a graduate research assistant at **wireless @ VT** under the mentorship of **Dr. Jeffrey Reed, Dr. Nishith Tripathi and Dr. Vijay Shah** .My current research work is focused using vehicular communications and artificial intelligence to improve the efficiency and security of traffic intersections. Recently, I started working in the feild of Non Terrestrial networks.
 Apart from work , I like hiking and photography. I am also an avid anime fan with One Piece and Demon Slayer being my current favorites. I was a part of the toastmasters International club where i served as a Vice president membership for the past year. During my undergraduate studies, i served as the sargent at arms for the club.
 
 ## Research Interests
